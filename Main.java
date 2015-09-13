@@ -30,7 +30,7 @@ public class Main extends JFrame implements ActionListener
     JPanel panel;
  
     public Main(){
-        this.setTitle("ActionListener Beispiel");
+        this.setTitle("BadKarmaGame");
         this.setSize(700, 200);
         panel = new JPanel();
  
